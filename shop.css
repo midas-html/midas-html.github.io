@@ -28,6 +28,9 @@ a{
 	text-decoration: none;
 	color: #555;
 }	
+html{
+	background: radial-gradient(#fff, #555);
+}
 .store{
 	margin-left: 50px;
 	margin-right: 50px;
